@@ -1,2 +1,2 @@
-# openSourceCircuitSim
+# openSourceCircuitSimulator
 SPICE meets C++
